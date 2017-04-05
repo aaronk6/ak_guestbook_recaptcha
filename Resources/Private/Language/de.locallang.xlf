@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0">
+   <file source-language="en" target-language="de" datatype="plaintext" original="messages" date="2017-04-05T21:43:00Z" product-name="ak_guestbook_recaptcha">
+      <header/>
+      <body>
+         <trans-unit id="errorCaptchaTokenMissing" xml:space="preserve">
+            <source>Captcha token missing. Do you have JavaScript enabled?</source>
+            <target>Captcha-Token fehlt. Bitte beachten Sie, dass JavaScript aktiviert sein muss.</target>
+         </trans-unit>
+         <trans-unit id="errorCaptchaNotCorrect" xml:space="preserve">
+            <source>Captcha wasn’t solved correctly. Please try again.</source>
+            <target>Das Captcha wurde nicht richtig gelöst. Bitte versuchen Sie es erneut.</target>
+         </trans-unit>
+      </body>
+   </file>
+</xliff>

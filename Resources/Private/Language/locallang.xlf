@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0">
+   <file source-language="en" datatype="plaintext" original="messages" date="2017-04-05T21:43:00Z" product-name="ak_guestbook_recaptcha">
+      <header/>
+      <body>
+         <trans-unit id="errorCaptchaTokenMissing" xml:space="preserve">
+            <source>Captcha token missing. Do you have JavaScript enabled?</source>
+         </trans-unit>
+         <trans-unit id="errorCaptchaNotCorrect" xml:space="preserve">
+            <source>Captcha wasn’t solved correctly. Please try again.</source>
+         </trans-unit>
+      </body>
+   </file>
+</xliff>

@@ -1,0 +1,4 @@
+plugin.tx_akguestbookrecaptcha.settings {
+	site_key   = ADD_YOUR_OWN_KEY
+	secret_key = ADD_YOUR_OWN_KEY
+}
